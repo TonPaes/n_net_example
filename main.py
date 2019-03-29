@@ -14,3 +14,4 @@ while 1:
 
     plt.imshow(deep.x_test[number], cmap=plt.cm.binary)
     plt.show()
+# comment to x_test
